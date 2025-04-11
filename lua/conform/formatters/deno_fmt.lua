@@ -2,7 +2,6 @@ local log = require("conform.log")
 
 -- Requires `--unstable-component` flag or
 -- `"unstable": ["fmt-component]` config option.
--- https://docs.deno.com/runtime/reference/cli/formatter/#formatting-options-unstable-component
 local unstable_extensions = {
   astro = "astro",
   svelte = "svelte",
@@ -45,7 +44,7 @@ return {
 
     if unstable_extensions[extension] then
       log.info(
-        "Adding `--unstable-component` to enable formatting of .%s files. See the Deno documentation for more information: https://docs.deno.com/runtime/reference/cli/formatter/#formatting-options-unstable-component",
+        "Adding `--unstable-component` to enable formatting of .%s files. See the Deno documentation for more information",
         extension
       )
       formatter_args = vim.list_extend(formatter_args, { "--unstable-component" })

@@ -9,7 +9,6 @@ return {
   command = "sqruff",
   args = { "fix", "-" },
   cwd = util.root_file({
-    -- https://github.com/quarylabs/sqruff/tree/main#configuration
     ".sqruff",
   }),
   require_cwd = true,

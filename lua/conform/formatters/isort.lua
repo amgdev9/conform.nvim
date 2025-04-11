@@ -27,7 +27,6 @@ return {
     }
   end,
   cwd = util.root_file({
-    -- https://pycqa.github.io/isort/docs/configuration/config_files.html
     ".isort.cfg",
     "pyproject.toml",
     "setup.py",

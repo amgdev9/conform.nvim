@@ -29,7 +29,6 @@ return {
     end
   end,
   cwd = util.root_file({
-    -- https://github.com/akaihola/darker#customizing-darker-black-isort-flynt-and-linter-behavior
     "pyproject.toml",
   }),
 }

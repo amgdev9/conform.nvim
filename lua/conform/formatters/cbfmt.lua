@@ -8,7 +8,6 @@ return {
   command = "cbfmt",
   args = { "--write", "--best-effort", "$FILENAME" },
   cwd = util.root_file({
-    -- https://github.com/lukas-reineke/cbfmt#config
     ".cbfmt.toml",
   }),
   stdin = false,
