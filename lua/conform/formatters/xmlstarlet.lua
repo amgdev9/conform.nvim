@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "http://xmlstar.sourceforge.net/",
+    url = "",
     description = "XMLStarlet is a command-line XML toolkit that can be used to format XML files.",
   },
   command = "xmlstarlet",

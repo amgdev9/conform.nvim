@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/Riverside-Healthcare/djLint",
+    url = "",
     description = "✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang.",
   },
   command = "djlint",

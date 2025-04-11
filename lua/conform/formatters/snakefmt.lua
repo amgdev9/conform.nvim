@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/snakemake/snakefmt",
+    url = "",
     description = "a formatting tool for Snakemake files following the design of Black.",
   },
   command = "snakefmt",

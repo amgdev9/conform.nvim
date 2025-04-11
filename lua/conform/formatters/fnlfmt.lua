@@ -1,7 +1,7 @@
 --@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://git.sr.ht/~technomancy/fnlfmt",
+    url = "",
     description = "A formatter for Fennel code.",
   },
   command = "fnlfmt",

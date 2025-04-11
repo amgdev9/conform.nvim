@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://hackage.haskell.org/package/ormolu",
+    url = "",
     description = "A formatter for Haskell source code.",
   },
   command = "ormolu",

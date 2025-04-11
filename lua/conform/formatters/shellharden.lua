@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/anordal/shellharden",
+    url = "",
     description = "The corrective bash syntax highlighter.",
   },
   command = "shellharden",

@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/pamoller/xmlformatter",
+    url = "",
     description = "xmlformatter is an Open Source Python package, which provides formatting of XML documents.",
   },
   command = "xmlformat",

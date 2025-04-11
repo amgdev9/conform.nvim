@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://kamadorueda.com/alejandra/",
+    url = "",
     description = "The Uncompromising Nix Code Formatter.",
   },
   command = "alejandra",

@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://imba.io/",
+    url = "",
     description = "Code formatter for the Imba programming language.",
   },
   command = "imba",

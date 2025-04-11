@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/WhatsApp/erlfmt",
+    url = "",
     description = "An automated code formatter for Erlang.",
   },
   command = "erlfmt",

@@ -3,7 +3,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer",
+    url = "",
     description = "The PHP Coding Standards Fixer.",
   },
   command = util.find_executable({

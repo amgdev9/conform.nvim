@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/antonWetzel/prettypst",
+    url = "",
     description = "Formatter for Typst.",
   },
   command = "prettypst",

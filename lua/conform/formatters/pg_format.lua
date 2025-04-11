@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/darold/pgFormatter",
+    url = "",
     description = "PostgreSQL SQL syntax beautifier.",
   },
   command = "pg_format",

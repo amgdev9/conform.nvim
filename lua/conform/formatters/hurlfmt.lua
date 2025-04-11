@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://hurl.dev/",
+    url = "",
     description = "Formats hurl files.",
   },
   command = "hurlfmt",

@@ -3,7 +3,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/rust-lang/rustfmt",
+    url = "",
     description = "A tool for formatting rust code according to style guidelines.",
   },
   command = "rustfmt",

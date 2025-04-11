@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://caramel.run/manual/reference/cli/fmt.html",
+    url = "",
     description = "Format Caramel code.",
   },
   command = "caramel",

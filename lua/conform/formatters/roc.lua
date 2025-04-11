@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/roc-lang/roc",
+    url = "",
     description = "A fast, friendly, functional language.",
   },
   command = "roc",

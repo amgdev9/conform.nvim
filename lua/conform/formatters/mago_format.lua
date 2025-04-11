@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/carthage-software/mago",
+    url = "",
     description = "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
   },
   command = "mago",

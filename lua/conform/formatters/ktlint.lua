@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://ktlint.github.io/",
+    url = "",
     description = "An anti-bikeshedding Kotlin linter with built-in formatter.",
   },
   command = "ktlint",

@@ -3,7 +3,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/tighten/tlint",
+    url = "",
     description = "Tighten linter for Laravel conventions with support for auto-formatting.",
   },
   command = util.find_executable({

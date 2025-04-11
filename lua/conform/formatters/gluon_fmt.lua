@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/gluon-lang/gluon",
+    url = "",
     description = "Code formatting for the gluon programming language.",
   },
   command = "gluon",

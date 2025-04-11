@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/psf/black",
+    url = "",
     description = "The uncompromising Python code formatter.",
   },
   command = "black",

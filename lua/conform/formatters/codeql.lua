@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://docs.github.com/en/code-security/codeql-cli/codeql-cli-manual/query-format",
+    url = "",
     description = "Format queries and libraries with CodeQL.",
   },
   command = "codeql",

@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://clang.llvm.org/docs/ClangFormat.html",
+    url = "",
     description = "Tool to format C/C++/… code according to a set of rules and heuristics.",
   },
   command = "clang-format",

@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/wvermin/findent",
+    url = "",
     description = "Indent, relabel and convert Fortran sources.",
   },
   command = "findent",

@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/PyCQA/isort",
+    url = "",
     description = "Python utility / library to sort imports alphabetically and automatically separate them into sections and by type.",
   },
   command = "isort",

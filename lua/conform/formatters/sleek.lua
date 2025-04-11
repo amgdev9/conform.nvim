@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/nrempel/sleek",
+    url = "",
     description = "Sleek is a CLI tool for formatting SQL.",
   },
   command = "sleek",

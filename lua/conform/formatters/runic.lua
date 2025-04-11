@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/fredrikekre/Runic.jl",
+    url = "",
     description = "Julia code formatter.",
   },
   command = "runic",

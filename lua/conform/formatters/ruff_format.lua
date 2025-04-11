@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://docs.astral.sh/ruff/",
+    url = "",
     description = "An extremely fast Python linter, written in Rust. Formatter subcommand.",
   },
   command = "ruff",

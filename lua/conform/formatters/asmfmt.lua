@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/klauspost/asmfmt",
+    url = "",
     description = "Go Assembler Formatter",
   },
   command = "asmfmt",

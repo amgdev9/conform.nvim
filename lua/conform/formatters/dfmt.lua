@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/dlang-community/dfmt",
+    url = "",
     description = "Formatter for D source code.",
   },
   command = "dfmt",

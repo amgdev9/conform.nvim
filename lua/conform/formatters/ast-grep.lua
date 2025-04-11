@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://ast-grep.github.io/",
+    url = "",
     description = "A CLI tool for code structural search, lint and rewriting. Written in Rust.",
   },
   command = "ast-grep",

@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/itchyny/gojq",
+    url = "",
     description = "Pure Go implementation of jq.",
   },
   command = "gojq",

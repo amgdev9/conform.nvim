@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/thlorenz/doctoc",
+    url = "",
     description = "Generates table of contents for markdown files inside local git repository.",
   },
   command = "doctoc",

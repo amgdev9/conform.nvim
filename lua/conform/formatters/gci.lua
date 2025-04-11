@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/daixiang0/gci",
+    url = "",
     description = "GCI, a tool that controls Go package import order and makes it always deterministic.",
   },
   command = "gci",

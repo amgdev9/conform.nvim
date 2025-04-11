@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/greglook/cljstyle",
+    url = "",
     description = "Formatter for Clojure code.",
   },
   command = "cljstyle",

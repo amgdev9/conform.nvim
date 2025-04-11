@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/mikefarah/yq",
+    url = "",
     description = "YAML/JSON processor",
   },
   command = "yq",

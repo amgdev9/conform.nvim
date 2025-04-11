@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/ocaml-ppx/ocamlformat",
+    url = "",
     description = "Auto-formatter for OCaml code.",
   },
   command = "ocamlformat",

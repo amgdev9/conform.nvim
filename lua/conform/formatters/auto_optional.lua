@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://auto-optional.daanluttik.nl/",
+    url = "",
     description = "Adds the Optional type-hint to arguments where the default value is None.",
   },
   command = "auto-optional",

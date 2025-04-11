@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/realm/SwiftLint",
+    url = "",
     description = "A tool to enforce Swift style and conventions.",
   },
   command = "swiftlint",

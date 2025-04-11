@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://www.gnu.org/software/indent/",
+    url = "",
     description = "GNU Indent.",
   },
   command = "indent",

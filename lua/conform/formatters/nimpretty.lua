@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/nim-lang/nim",
+    url = "",
     description = "nimpretty is a Nim source code beautifier that follows the official style guide.",
   },
   command = "nimpretty",

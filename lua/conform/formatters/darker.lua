@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/akaihola/darker",
+    url = "",
     description = "Run black only on changed lines.",
   },
   command = "darker",

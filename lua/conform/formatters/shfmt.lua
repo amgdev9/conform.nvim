@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/mvdan/sh",
+    url = "",
     description = "A shell parser, formatter, and interpreter with `bash` support.",
   },
   command = "shfmt",

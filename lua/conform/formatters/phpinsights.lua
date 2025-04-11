@@ -3,7 +3,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/nunomaduro/phpinsights",
+    url = "",
     description = "The perfect starting point to analyze the code quality of your PHP projects.",
   },
   command = util.find_executable({

@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/hougesen/kdlfmt",
+    url = "",
     description = "A formatter for kdl documents.",
   },
   command = "kdlfmt",

@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://terragrunt.gruntwork.io/docs/reference/cli-options/#hclfmt",
+    url = "",
     description = "Format hcl files into a canonical format.",
   },
   command = "terragrunt",

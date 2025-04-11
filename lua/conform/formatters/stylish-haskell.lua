@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/haskell/stylish-haskell",
+    url = "",
     description = "Haskell code prettifier.",
   },
   command = "stylish-haskell",

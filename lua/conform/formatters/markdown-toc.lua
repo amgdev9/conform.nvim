@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/jonschlinkert/markdown-toc",
+    url = "",
     description = "API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files.",
   },
   command = "markdown-toc",

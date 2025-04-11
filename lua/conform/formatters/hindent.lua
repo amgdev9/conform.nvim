@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/mihaimaruseac/hindent",
+    url = "",
     description = "Haskell pretty printer.",
   },
   command = "hindent",

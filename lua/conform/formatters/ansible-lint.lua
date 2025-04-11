@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/ansible/ansible-lint",
+    url = "",
     description = "ansible-lint with --fix.",
   },
   command = "ansible-lint",

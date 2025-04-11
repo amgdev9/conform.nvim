@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/rubocop/rubocop",
+    url = "",
     description = "Ruby static code analyzer and formatter, based on the community Ruby style guide.",
   },
   command = "rubocop",

@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/uncrustify/uncrustify",
+    url = "",
     description = "A source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and Vala.",
   },
   command = "uncrustify",

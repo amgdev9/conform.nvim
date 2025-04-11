@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/Koihik/LuaFormatter",
+    url = "",
     description = "Code formatter for Lua.",
   },
   command = "lua-format",

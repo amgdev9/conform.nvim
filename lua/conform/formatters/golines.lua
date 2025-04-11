@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/segmentio/golines",
+    url = "",
     description = "A golang formatter that fixes long lines.",
   },
   command = "golines",

@@ -3,7 +3,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/facebook/usort",
+    url = "",
     description = "Safe, minimal import sorting for Python projects.",
   },
   command = "usort",

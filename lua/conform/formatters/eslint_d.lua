@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/mantoni/eslint_d.js/",
+    url = "",
     description = "Like ESLint, but faster.",
   },
   command = util.from_node_modules("eslint_d"),

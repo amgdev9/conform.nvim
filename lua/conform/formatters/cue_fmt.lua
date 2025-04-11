@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://cuelang.org",
+    url = "",
     description = "Format CUE files using `cue fmt` command.",
   },
   command = "cue",

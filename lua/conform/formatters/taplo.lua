@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/tamasfe/taplo",
+    url = "",
     description = "A TOML toolkit written in Rust.",
   },
   command = "taplo",

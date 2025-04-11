@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/candid82/joker",
+    url = "",
     description = "Small Clojure interpreter, linter and formatter.",
   },
   command = "joker",

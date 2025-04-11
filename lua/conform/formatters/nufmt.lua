@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/nushell/nufmt",
+    url = "",
     description = "The nushell formatter.",
   },
   command = "nufmt",

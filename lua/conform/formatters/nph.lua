@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/arnetheduck/nph",
+    url = "",
     description = "An opinionated code formatter for Nim.",
   },
   command = "nph",

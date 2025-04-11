@@ -33,7 +33,7 @@ end
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/jeremiah-c-leary/vhdl-style-guide",
+    url = "",
     description = "Style guide enforcement for VHDL.",
   },
   command = "vsg",

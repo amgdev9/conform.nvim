@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/google/yapf",
+    url = "",
     description = "Yet Another Python Formatter.",
   },
   command = "yapf",

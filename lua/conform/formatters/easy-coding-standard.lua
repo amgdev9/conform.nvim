@@ -3,7 +3,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/easy-coding-standard/easy-coding-standard",
+    url = "",
     description = "ecs - Use Coding Standard with 0-knowledge of PHP-CS-Fixer and PHP_CodeSniffer.",
   },
   command = util.find_executable({

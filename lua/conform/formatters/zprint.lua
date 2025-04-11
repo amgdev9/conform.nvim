@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/kkinnear/zprint",
+    url = "",
     description = "Formatter for Clojure and EDN.",
   },
   command = "zprint",

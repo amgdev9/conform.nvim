@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/Enter-tainer/typstyle",
+    url = "",
     description = "Beautiful and reliable typst code formatter.",
   },
   command = "typstyle",

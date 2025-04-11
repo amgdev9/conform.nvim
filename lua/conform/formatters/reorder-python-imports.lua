@@ -1,7 +1,7 @@
 --@type conform.FileFormatterConfig-
 return {
   meta = {
-    url = "https://github.com/asottile/reorder-python-imports",
+    url = "",
     description = "Rewrites source to reorder python imports",
   },
   command = "reorder-python-imports",

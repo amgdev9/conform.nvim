@@ -3,7 +3,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/VincentLanglet/Twig-CS-Fixer",
+    url = "",
     description = "Automatically fix Twig Coding Standards issues",
   },
   command = util.find_executable({

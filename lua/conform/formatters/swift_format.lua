@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/apple/swift-format",
+    url = "",
     description = "Swift formatter from apple. Requires building from source with `swift build`.",
   },
   command = "swift-format",

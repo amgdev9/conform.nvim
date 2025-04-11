@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/JohnnyMorganz/StyLua",
+    url = "",
     description = "An opinionated code formatter for Lua.",
   },
   command = "stylua",

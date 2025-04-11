@@ -174,7 +174,7 @@ end
 ---@type conform.FileLuaFormatterConfig
 return {
   meta = {
-    url = "doc/advanced_topics.md#injected-language-formatting-code-blocks",
+    url = "",
     description = "Format treesitter injected languages.",
   },
   ---@type conform.InjectedFormatterOptions

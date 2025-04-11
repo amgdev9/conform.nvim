@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/posit-dev/air",
+    url = "",
     description = "R formatter and language server.",
   },
   command = "air",

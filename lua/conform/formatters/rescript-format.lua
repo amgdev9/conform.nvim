@@ -12,7 +12,7 @@ local default_extension = "res"
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://rescript-lang.org/",
+    url = "",
     description = "The built-in ReScript formatter.",
   },
   command = "rescript",

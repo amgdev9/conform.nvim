@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://pypi.org/project/docformatter/",
+    url = "",
     description = "docformatter automatically formats docstrings to follow a subset of the PEP 257 conventions.",
   },
   command = "docformatter",

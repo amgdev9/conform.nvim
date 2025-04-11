@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/gleam-lang/gleam",
+    url = "",
     description = "⭐️ A friendly language for building type-safe, scalable systems!",
   },
   command = "gleam",

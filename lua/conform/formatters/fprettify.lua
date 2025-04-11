@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/fortran-lang/fprettify",
+    url = "",
     description = "Auto-formatter for modern fortran source code.",
   },
   command = "fprettify",

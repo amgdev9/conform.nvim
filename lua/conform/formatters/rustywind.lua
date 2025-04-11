@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/avencera/rustywind",
+    url = "",
     description = "A tool for formatting Tailwind CSS classes.",
   },
   command = "rustywind",

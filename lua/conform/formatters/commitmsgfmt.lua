@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://gitlab.com/mkjeldsen/commitmsgfmt",
+    url = "",
     description = "Formats commit messages better than fmt(1) and Vim.",
   },
   command = "commitmsgfmt",

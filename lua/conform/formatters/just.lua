@@ -1,6 +1,6 @@
 return {
   meta = {
-    url = "https://github.com/casey/just",
+    url = "",
     description = "Format Justfile.",
   },
   command = "just",

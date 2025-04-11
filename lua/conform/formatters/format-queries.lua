@@ -6,7 +6,7 @@ end
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/nvim-treesitter/nvim-treesitter/blob/main/CONTRIBUTING.md#formatting",
+    url = "",
     description = "Tree-sitter query formatter.",
   },
   condition = function()

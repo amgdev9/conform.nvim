@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/standardrb/standard",
+    url = "",
     description = "Ruby's bikeshed-proof linter and formatter.",
   },
   command = "standardrb",

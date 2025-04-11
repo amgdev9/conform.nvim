@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/hhatto/autopep8",
+    url = "",
     description = "A tool that automatically formats Python code to conform to the PEP 8 style guide.",
   },
   command = "autopep8",

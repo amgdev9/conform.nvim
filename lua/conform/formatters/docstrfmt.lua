@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/LilSpazJoekp/docstrfmt",
+    url = "",
     description = "reStructuredText formatter.",
   },
   command = "docstrfmt",

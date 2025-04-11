@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/executablebooks/mdformat",
+    url = "",
     description = "An opinionated Markdown formatter.",
   },
   command = "mdformat",

@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://pkg.go.dev/cmd/gofmt",
+    url = "",
     description = "Formats go programs.",
   },
   command = "gofmt",

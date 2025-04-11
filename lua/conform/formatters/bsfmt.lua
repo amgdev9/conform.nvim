@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/rokucommunity/brighterscript-formatter",
+    url = "",
     description = "A code formatter for BrighterScript (and BrightScript).",
   },
   command = "bsfmt",

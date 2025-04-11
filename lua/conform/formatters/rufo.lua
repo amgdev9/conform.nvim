@@ -1,6 +1,6 @@
 return {
   meta = {
-    url = "https://github.com/ruby-formatter/rufo",
+    url = "",
     description = "Rufo is an opinionated ruby formatter.",
   },
   command = "rufo",

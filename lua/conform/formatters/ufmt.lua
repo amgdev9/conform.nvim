@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/omnilib/ufmt",
+    url = "",
     description = "Safe, atomic formatting with black and µsort.",
   },
   command = "ufmt",

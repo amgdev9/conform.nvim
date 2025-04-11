@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/devOpifex/r.nvim",
+    url = "",
     description = "R formatter and linter.",
   },
   command = util.find_executable({ "usr/bin/" }, "R"),

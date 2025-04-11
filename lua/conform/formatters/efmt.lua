@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/sile/efmt",
+    url = "",
     description = "Erlang code formatter.",
   },
   command = "efmt",

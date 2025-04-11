@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/stylelint/stylelint",
+    url = "",
     description = "A mighty CSS linter that helps you avoid errors and enforce conventions.",
   },
   command = util.from_node_modules("stylelint"),

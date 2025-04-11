@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/cockroachdb/crlfmt",
+    url = "",
     description = "Formatter for CockroachDB's additions to the Go style guide.",
   },
   command = "crlfmt",

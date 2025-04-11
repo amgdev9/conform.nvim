@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/kristoff-it/ziggy",
+    url = "",
     description = "A data serialization language for expressing clear API messages, config files, etc.",
   },
   command = "ziggy",

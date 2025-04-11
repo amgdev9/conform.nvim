@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/google/google-java-format",
+    url = "",
     description = "Reformats Java source code according to Google Java Style.",
   },
   command = "google-java-format",

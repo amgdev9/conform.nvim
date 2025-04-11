@@ -3,7 +3,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/lkrms/pretty-php",
+    url = "",
     description = "The opinionated PHP code formatter.",
   },
   command = util.find_executable({

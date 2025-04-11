@@ -3,7 +3,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/schvv31n/yew-fmt",
+    url = "",
     description = "Code formatter for the Yew framework.",
   },
   command = "yew-fmt",

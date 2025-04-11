@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/belav/csharpier",
+    url = "",
     description = "The opinionated C# code formatter.",
   },
   command = "dotnet",

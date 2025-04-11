@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/perl-ide/App-perlimports",
+    url = "",
     description = "Make implicit Perl imports explicit.",
   },
   command = "perlimports",

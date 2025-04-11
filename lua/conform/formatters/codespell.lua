@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/codespell-project/codespell",
+    url = "",
     description = "Check code for common misspellings.",
   },
   command = "codespell",

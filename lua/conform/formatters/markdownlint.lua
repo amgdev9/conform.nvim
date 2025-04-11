@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/DavidAnson/markdownlint",
+    url = "",
     description = "A Node.js style checker and lint tool for Markdown/CommonMark files.",
   },
   command = "markdownlint",

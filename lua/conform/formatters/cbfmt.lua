@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/lukas-reineke/cbfmt",
+    url = "",
     description = "A tool to format codeblocks inside markdown and org documents.",
   },
   command = "cbfmt",

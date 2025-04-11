@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/dprint/dprint",
+    url = "",
     description = "Pluggable and configurable code formatting platform written in Rust.",
   },
   command = util.from_node_modules("dprint"),

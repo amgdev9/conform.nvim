@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/ducminh-phan/reformat-gherkin",
+    url = "",
     description = "Formatter for Gherkin language.",
   },
   command = "reformat-gherkin",

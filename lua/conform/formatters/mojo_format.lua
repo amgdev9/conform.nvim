@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://docs.modular.com/mojo/cli/format",
+    url = "",
     description = "Official Formatter for The Mojo Programming Language",
   },
   command = "mojo",

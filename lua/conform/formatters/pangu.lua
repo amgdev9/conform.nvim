@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/vinta/pangu.py",
+    url = "",
     description = "Insert whitespace between CJK and half-width characters.",
   },
   command = "pangu",

@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://hackage.haskell.org/package/fourmolu",
+    url = "",
     description = "A fork of ormolu that uses four space indentation and allows arbitrary configuration.",
   },
   command = "fourmolu",

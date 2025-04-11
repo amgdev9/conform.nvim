@@ -3,7 +3,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/quarylabs/sqruff",
+    url = "",
     description = "sqruff is a SQL linter and formatter written in Rust.",
   },
   command = "sqruff",

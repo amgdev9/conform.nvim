@@ -26,7 +26,7 @@ local extensions = vim.tbl_extend("keep", {
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://deno.land/manual/tools/formatter",
+    url = "",
     description = "Use [Deno](https://deno.land/) to format TypeScript, JavaScript/JSON and markdown.",
   },
   command = "deno",

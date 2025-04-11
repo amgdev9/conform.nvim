@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/stedolan/jq",
+    url = "",
     description = "Command-line JSON processor.",
   },
   command = "jq",

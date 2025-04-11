@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://gn.googlesource.com/gn/",
+    url = "",
     description = "gn build system.",
   },
   command = "gn",

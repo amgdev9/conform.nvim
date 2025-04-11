@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/hougesen/mdsf",
+    url = "",
     description = "Format markdown code blocks using your favorite code formatters.",
   },
   command = "mdsf",

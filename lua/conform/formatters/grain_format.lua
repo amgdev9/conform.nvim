@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://grain-lang.org/docs/tooling/grain_cli#grain-format",
+    url = "",
     description = "Code formatter for the grain programming language.",
   },
   command = "grain",

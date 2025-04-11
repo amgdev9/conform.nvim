@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/puppetlabs/puppet-lint",
+    url = "",
     description = "Check that your Puppet manifests conform to the style guide.",
   },
   command = "puppet-lint",

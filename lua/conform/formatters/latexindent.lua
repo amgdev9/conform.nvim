@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/cmhughes/latexindent.pl",
+    url = "",
     description = "A perl script for formatting LaTeX files that is generally included in major TeX distributions.",
   },
   command = "latexindent",

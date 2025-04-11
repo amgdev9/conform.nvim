@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/PyCQA/autoflake",
+    url = "",
     description = "Removes unused imports and unused variables as reported by pyflakes.",
   },
   command = "autoflake",

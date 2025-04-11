@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/tox-dev/toml-fmt/tree/main/pyproject-fmt",
+    url = "",
     description = "Apply a consistent format to your pyproject.toml file with comment support.",
   },
   command = "pyproject-fmt",

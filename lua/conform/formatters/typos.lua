@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/crate-ci/typos",
+    url = "",
     description = "Source code spell checker",
   },
   command = "typos",

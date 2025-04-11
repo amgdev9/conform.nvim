@@ -2,7 +2,7 @@ local util = require("conform.util")
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/grantjenks/blue",
+    url = "",
     description = "The slightly less uncompromising Python code formatter.",
   },
   command = "blue",

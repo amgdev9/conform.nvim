@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://dcm.dev/docs/cli/formatting/format/",
+    url = "",
     description = "Formats .dart files.",
   },
   command = "dcm",

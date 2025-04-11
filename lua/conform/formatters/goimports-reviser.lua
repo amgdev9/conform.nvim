@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/incu6us/goimports-reviser",
+    url = "",
     description = "Right imports sorting & code formatting tool (goimports alternative).",
   },
   command = "goimports-reviser",

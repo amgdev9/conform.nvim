@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://buf.build/docs/reference/cli/buf/format",
+    url = "",
     description = "A new way of working with Protocol Buffers.",
   },
   command = "buf",

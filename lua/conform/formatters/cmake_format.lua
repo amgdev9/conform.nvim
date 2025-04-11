@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://github.com/cheshirekow/cmake_format",
+    url = "",
     description = "Parse cmake listfiles and format them nicely.",
   },
   command = "cmake-format",

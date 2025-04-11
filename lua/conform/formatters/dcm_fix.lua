@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://dcm.dev/docs/cli/formatting/fix/",
+    url = "",
     description = "Fixes issues produced by dcm analyze, dcm check-unused-code or dcm check-dependencies commands.",
   },
   command = "dcm",

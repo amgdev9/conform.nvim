@@ -1,7 +1,7 @@
 ---@type conform.FileFormatterConfig
 return {
   meta = {
-    url = "https://crystal-lang.org/",
+    url = "",
     description = "Format Crystal code.",
   },
   command = "crystal",

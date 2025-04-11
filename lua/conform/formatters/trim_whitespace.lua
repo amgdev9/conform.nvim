@@ -1,7 +1,7 @@
 ---@type conform.FileLuaFormatterConfig
 return {
   meta = {
-    url = "https://github.com/stevearc/conform.nvim/blob/master/lua/conform/formatters/trim_whitespace.lua",
+    url = "",
     description = "Trim trailing whitespace.",
   },
   format = function(self, ctx, lines, callback)
